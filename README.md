@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @floreaneusebiu3
-- 👀 I’m interested in Software Developing
-- 🌱 I’m currently learning at Technical University of Cluj Napoca, Computer Science
+
